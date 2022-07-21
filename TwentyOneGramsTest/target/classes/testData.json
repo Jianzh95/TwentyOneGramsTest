@@ -1,0 +1,27 @@
+{
+  "movies": [
+    {
+      "title": "Die Hard",
+      "year": "1988",
+      "rated": "R",
+      "released": "20 Jul 1988",
+      "runtime": "131 min",
+      "genre": "Action, Thriller",
+      "director": "John McTiernan",
+      "writer": "Roderick Thorp (novel), Jeb Stuart (screenplay), Steven E. de Souza (screenplay)",
+      "actors": "Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason",
+      "plot": "John McClane, officer of the NYPD, tries to save wife Holly Gennaro and several others, taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+      "language": "English, German, Italian",
+      "country": "USA",
+      "awards": "Nominated for 4 Oscars. Another 6 wins & 2 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+      "metascore": "70",
+      "imdbRating": "8.3",
+      "imdbVotes": "511278",
+      "imdbID": "tt0095016",
+      "type": "movie",
+      "response": "True"
+    }
+  ]
+}
+
